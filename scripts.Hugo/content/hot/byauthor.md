@@ -12,4 +12,5 @@ categories:
 ---
 
 {{< mydiv4o text="youtube_852郵報" link="/byauthor/e16c6ffdcedb18fe2ca2c0059a1e3bf9/index.html">}}
+{{< mydiv4o text="youtube_ng_sam" link="/byauthor/8b24f016734104b815ccd1084f1e2c41/index.html">}}
 
